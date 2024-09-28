@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://chisenbu.github.io/sitemap.chisenbu.gz
+Sitemap: https://chisenbu.github.io/app/sitemap.chisenbu.gz
+Sitemap: https://chisenbu.github.io/assets/sitemap.chisenbu.gz
+Sitemap: https://chisenbu.github.io/css/sitemap.chisenbu.gz
+Sitemap: https://chisenbu.github.io/data/sitemap.chisenbu.gz
+Sitemap: https://chisenbu.github.io/includes/sitemap.chisenbu.gz
+Sitemap: https://chisenbu.github.io/item/sitemap.chisenbu.gz
+Sitemap: https://chisenbu.github.io/src/sitemap.chisenbu.gz
